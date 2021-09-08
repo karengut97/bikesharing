@@ -11,7 +11,7 @@ Tableau was used to provide visualizations of the NYC bikesharing program. A sam
 <img src="images/Checkout_by_Gender.png"/>  
 
 
-[Check Out My Story](https://public.tableau.com/profile/devin4105#!/vizhome/ThursdayisthedaytorideinAugust/ThursdayisthedaytorideinAugust)
+[Check Out My Story](https://public.tableau.com/app/profile/karen.gutierrez5128/viz/Bikesharing_16311251651470/DesMoineBikeAnalysis?publish=yes)
 
 ## Summary
 It is hardly useful to leverage the bikesharing data in New York City, where the population is over 8.5M people, to that of Des Moine whose population is 215.6K. In addition, the density of each downtown is not compatible. This assessment is better leveraged by other major cities in the United States. 
