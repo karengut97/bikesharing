@@ -7,6 +7,7 @@ This project is designed to provide an analysis and feasibility study for a bike
 Tableau was used to provide visualizations of the NYC bikesharing program. A sample of some of them include:
 
 Peak Hours:
+<img src="images/peakHours.png"/>
 
    <img src="images/peakHours.png" width="500" height="500"/>  
 
